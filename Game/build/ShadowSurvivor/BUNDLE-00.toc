@@ -1,0 +1,3 @@
+([('ShadowSurvivor',
+   '/Users/admin/Documents/Game/dist/ShadowSurvivor',
+   'EXECUTABLE')],)
